@@ -55,7 +55,7 @@
 		<source-file src="src/android/src/com/pushwoosh/plugin/internal/PhonegapPluginProvider.java"
 			target-dir="src/com/pushwoosh/plugin/internal" />
 
-		<preference name="FIREBASE_CORE_VERSION" default="16.0.0"/>
+		<preference name="FIREBASE_CORE_VERSION" default="16.0.9"/>
 		<preference name="FIREBASE_MESSAGING_VERSION" default="18.0.0"/>
 		
 		<framework src="com.google.firebase:firebase-core:$FIREBASE_CORE_VERSION" />
